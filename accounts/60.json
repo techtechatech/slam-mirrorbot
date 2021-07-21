@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "techtechatech",
+  "private_key_id": "8225ccc822bf8a74e07c763f9232ec191c269cca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0Scy38Y3Z4DT4\ncWLFNn/aVLj0nfXxfRQHA0SRs+TomluYdRz78s0cISitdcOqXW3/7JRjOYGnva9Z\nu0t0Y50O8Y5Eym44c7T2nxyzI2S1ZRQKengmPC35+VFX4vV18xS5rT0Ntz4vUdYN\n1sSXOYfWLgWZdoAOOigWdlsKl3MMELA/n+SiugNpgihxGvhwGqY9vg2W7FQ3bHxU\na0W10qoVcX8/1Io2Bbmlx5TQdyw0+2UZHasqT+/EsnGyckJFipLMFKXsF/wKspYQ\nEF40icPlN354B0D7DQZMmOmS+McF8p3TYRGMj9g3QZyGj29AS2MN2VbRgQ9LKyCU\nG+ZhmtPxAgMBAAECggEAP41cSuMte8YbJhDiHl7Nxurin+gm0E+lBavTOgFOCeiP\nrThrVS0LvIS70BmZNa7lnbeJv0iAOd8Vtu3c9VRAAwqHehxZqjCvc9g2x7cMQx00\naVUukVvZYSrPz8lDeaaMgb9drD4R/6A7cnlop14yUf+7HZO2JE2/39ss0Jj+hxup\n4i41PS16KllmVDOdlX6RUn26RW1V+xcsYhSULLryOaepRG8c0rUTYr+XeoNcC6nj\nrOaq2B0qrd++ogC7t1nFLUyibj2N8LRRWRa8V0dtb5wSE9fh/k7hreCu+N2jTMNv\niOQ2oNMm5cwEHgiTNNs7uSu1VDTkscSe+CyJLCIaGQKBgQD32o7nQT1IyaLiEQyH\nvElHPfmuPmECt08T3BFqYDj9rsj8KMlX9ervBUlnTNOLLy26GsyBP3216NZC+b94\nPLfnPoeZEoY6bsuhKOQz0j4/MEHzKLO3rW/M6AUDq5s81nBq69hjUIBO8B4kLfPC\npuJHBs60RtnIaL9liIw9P63u0wKBgQC6Nr7clkVDafSWeaehYZ16vCMs73Qe5gce\nTNt7nzCXDUFyInQIljUY85HPsucV8O1NIEnaWE3iani7vqrKp3I8ITjsjJ78P5Hr\nEcSg18JeT04K96EhHWDxLcQA7MnYtAKxtxEvblPu3FOyY66FVV3YLvDEAhAeOx+B\nXosaOIRfqwKBgFzGB2WSavEa4IhEH2+TT86F6TaKjN9qZAQoBLDPsaVrTjnsvmjZ\nWQX88ZvkCu73SuN1coUSkeiMbd8GAuBrwd6h7jmi0HGA1WHOn5SyJrCaTKVK3/Jp\nzgZh9raH/oSIM+4ht459LHnfsTiTpsF+nAZACxE5z/0PEE1eDjhC5MUXAoGBAKIC\n3X3X8/0aI2YEBDdhUX0mUMhYsUPsyEaxgcgFkWXqb4VYunF6FkpWKAd31Jv/WMbg\nj8C7UU/raI2X7sqQctAj633LPsuil1bYx6VU8tPQ1cqu9e50vBI5yi0v1tGGlE2A\nRCBrMfVAlkU/euighByBgpJWZSWYNOn+krHGeE0vAoGALF8Lc6yGthGtFBNRDjMr\nBk0GP8C+ZnsMQ9CtMNOpG+DfrG52lZ/yzdQrE0fEJ9z+OUHGaR5SPFVPThRQMb6V\nZLLa0ZNkNyP4I0fnDYPEpUZjVIyaeGZvA0p7IqVFjUao/5U1dD+THKMFPjdPqAzf\n0qgJKUSqURPq+atThzhhP6U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-2t8nsc7r3-lurhbwb1l8qolu5m@techtechatech.iam.gserviceaccount.com",
+  "client_id": "105528639030399015058",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-2t8nsc7r3-lurhbwb1l8qolu5m%40techtechatech.iam.gserviceaccount.com"
+}
